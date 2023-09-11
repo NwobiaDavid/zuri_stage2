@@ -28,8 +28,12 @@ const personSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Name must be added...'],
   },
-  email: String,
-  age: Number,
+  email: {
+    type: String,
+  },
+  age: {
+    type: Number,
+  },
 });
 
 //Person model
