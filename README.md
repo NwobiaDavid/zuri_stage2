@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 ## Running the API
 Start the API server by running the following command:
 ```bash
-npm start
+node index.js
 ```
 The API will run on the specified port (default is 3000). You can access it at `http://localhost:3000`.
 
