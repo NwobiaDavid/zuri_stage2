@@ -2,6 +2,12 @@
 
 This README provides instructions for setting up, running, and using the REST API.
 
+**the UML Diagram**
+![UML Diagram](./uml%20diagram.drawio.png)
+
+**the E-R Diagram**
+![E-R Diagram](./e-r%20diagram.drawio.png)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
